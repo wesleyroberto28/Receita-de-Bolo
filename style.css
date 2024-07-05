@@ -8,6 +8,7 @@
 body{
   background-image: url(assets/bg-image.jpg);
   background-repeat: no-repeat;
+  font-family: "Alice", serif;
   width: 1250px;
   height: 1588px;
 }
