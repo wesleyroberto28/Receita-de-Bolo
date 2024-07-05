@@ -4,3 +4,23 @@
   --texto-primario: #291b1a;
   --texto-secundario: #573a37;
 }
+
+body{
+  background-image: url(assets/bg-image.jpg);
+  background-repeat: no-repeat;
+  width: 1250px;
+  height: 1588px;
+}
+
+.page {
+  width: 800px;
+  background-color: var(--cor-da-pagina);
+  border-radius: 24px;
+  padding: 24px;
+}
+
+.page img{
+  width: 400px;
+  border-radius: 16px;
+  margin-bottom: 24px;
+}
