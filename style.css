@@ -41,7 +41,6 @@ h1 {
   font-size: 40px;
   color: var(--texto-primario);
   margin-bottom: 4px;
-  line-height: 150%;
 }
 
 h2 {
@@ -58,7 +57,7 @@ ul {
   margin-left: 24px;
 }
 
-section {
+section + section {
   margin-top: 24px;
 }
 
